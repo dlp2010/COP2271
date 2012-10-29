@@ -98,7 +98,4 @@ int main (void){ //start of main function
 	}
 	}
 }
-			
-				
-
 
