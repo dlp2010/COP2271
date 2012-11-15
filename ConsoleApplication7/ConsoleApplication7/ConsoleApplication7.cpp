@@ -156,6 +156,3 @@ int main(void){//main function
 	}
 }
 
-
-
-
