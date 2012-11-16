@@ -9,18 +9,48 @@
 #include <cstdlib>
 using namespace std;
 
-void numtimes(char character){
-	int times;
+ifstream file1;
 
+int numtimes(char character,char file[40]){
+	int times=0;
+	char letter;
+	fileopen(file);
+	while (!file1.eof()){
+		file1>>letter;
+		if (letter==character){
+			times++;
+		}
+	}
+	fileclose();
+	return times;
 }
-void frequency (char character){
-
+float frequency (char character,char file[40]){
+	return numtimes(character,file)/count(file);
+}
+int count(char file[40]){
+	int sum=0;
+	fileopen(file);
+	while (!file1.eof()){
+		sum++;
+	}
+	fileclose();
+	return sum;
+}
+bool fileopen(char file[40]){
+	file1.open(file);
+	if (file1.fail()){
+		file1.clear();
+		return false;
+		}
+	return true;
+}
+void fileclose(void){
+	file1.close();
 }
 
 
 
 int main(void){
-	ifstream file1;
 	bool open=false;
 	char filename[40];
 	int choice;
@@ -32,11 +62,10 @@ int main(void){
 		cout <<"Please give a file name: ";
 		cin.getline(filename, sizeof(filename));
 		cout<<endl;
-		file1.open(filename);
-		if (file1.fail()){
-			file1.clear();
+		if(fileopen(filename)){
+			open=true;
+			fileclose();
 		}
-		else open=true;
 	} while (!open);
 	while (bool exits=false){
 		cout<<"Choose:"<<endl;
