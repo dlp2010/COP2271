@@ -1,0 +1,29 @@
+Wednesday   	22-Aug 	Class Intro
+Monday 		27-Aug 	C++ Intro
+Wednesday 	29-Aug 	C++ Basics
+Wednesday 	5-Sep 	C++ Statements
+Monday 	        10-Sep	C++ Statements
+Wednesday 	12-Sep	Control Structures
+Monday 		17-Sep	Control Structures
+Wednesday 	19-Sep	Functions
+Monday 		24-Sep	Functions
+Wednesday 	26-Sep	Functions
+Monday 		1-Oct	Exam #1 Review	
+Wednesday 	3-Oct 	Exam #1			
+Monday 	 	8-Oct	Arrays
+Wednesday   	10-Oct	Arrays
+Monday 	 	15-Oct	Arrays/File Processing
+Wednesday 	17-Oct	File Processing
+Monday 		22-Oct	File Processing
+Wednesday 	24-Oct	Pointers
+Monday 		29-Oct	Pointers
+Wednesday 	31-Oct	Pointers/OOP Intro
+Monday 		5-Nov	Exam #2 Review			
+Wednesday	7-Nov	Exam #2
+Wednesday 	14-Nov	Object Oriented Programming - Intro
+Monday        	19-Nov 	Object Oriented Programming 
+Monday        	26-Nov 	Object Oriented Programming
+Wednesday  	28-Nov 	Object Oriented Programming	
+Monday		3-Dec	Special Topics
+Wednesday 	5-Dec	Class Review		  		         	
+Tuesday       	11-Dec	Final Exam

@@ -1,0 +1,52 @@
+Character a appears 48 times in the text.
+It has a frequency of 0.0624187 .
+Character b appears 4 times in the text.
+It has a frequency of 0.00520156 .
+Character c appears 28 times in the text.
+It has a frequency of 0.0364109 .
+Character d appears 48 times in the text.
+It has a frequency of 0.0624187 .
+Character e appears 75 times in the text.
+It has a frequency of 0.0975293 .
+Character f appears 0 times in the text.
+It has a frequency of 0 .
+Character g appears 14 times in the text.
+It has a frequency of 0.0182055 .
+Character h appears 0 times in the text.
+It has a frequency of 0 .
+Character i appears 27 times in the text.
+It has a frequency of 0.0351105 .
+Character j appears 4 times in the text.
+It has a frequency of 0.00520156 .
+Character k appears 0 times in the text.
+It has a frequency of 0 .
+Character l appears 9 times in the text.
+It has a frequency of 0.0117035 .
+Character m appears 16 times in the text.
+It has a frequency of 0.0208062 .
+Character n appears 57 times in the text.
+It has a frequency of 0.0741222 .
+Character o appears 41 times in the text.
+It has a frequency of 0.053316 .
+Character p appears 9 times in the text.
+It has a frequency of 0.0117035 .
+Character q appears 0 times in the text.
+It has a frequency of 0 .
+Character r appears 34 times in the text.
+It has a frequency of 0.0442133 .
+Character s appears 42 times in the text.
+It has a frequency of 0.0546164 .
+Character t appears 40 times in the text.
+It has a frequency of 0.0520156 .
+Character u appears 11 times in the text.
+It has a frequency of 0.0143043 .
+Character v appears 9 times in the text.
+It has a frequency of 0.0117035 .
+Character w appears 3 times in the text.
+It has a frequency of 0.00390117 .
+Character x appears 5 times in the text.
+It has a frequency of 0.00650195 .
+Character y appears 32 times in the text.
+It has a frequency of 0.0416125 .
+Character z appears 0 times in the text.
+It has a frequency of 0 .
